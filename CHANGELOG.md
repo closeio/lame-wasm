@@ -1,5 +1,10 @@
 # Releases
 
+## 1.0.0
+
+- Include a copy of LAME's COPYING
+- Repackage under `@closeio` NPM namespace
+
 ## 0.3.0
 
 - Update LAME to v4.0

@@ -1,6 +1,6 @@
 {
   "name": "@closeio/lame-wasm",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "license": "(MIT AND LGPL-2.0-only)",
   "repository": {
     "url": "https://github.com/closeio/lame-wasm"
