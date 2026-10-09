@@ -6,6 +6,7 @@
     "url": "https://github.com/dairyisscary/lame-wasm"
   },
   "files": [
+    "COPYING-lame",
     "dist"
   ],
   "type": "module",
