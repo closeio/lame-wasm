@@ -5,11 +5,11 @@
 ## Installation and Example Usage
 
 ```bash
-npm install lame-wasm
+npm install @closeio/lame-wasm
 ```
 
 ```javascript
-import { init } from "lame-wasm";
+import { init } from "@closeio/lame-wasm";
 
 async function record() {
   // Mono 48kbps PCM input, 128kbps output

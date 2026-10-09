@@ -1,9 +1,9 @@
 {
-  "name": "lame-wasm",
+  "name": "@closeio/lame-wasm",
   "version": "0.3.0",
   "license": "(MIT AND LGPL-2.0-only)",
   "repository": {
-    "url": "https://github.com/dairyisscary/lame-wasm"
+    "url": "https://github.com/closeio/lame-wasm"
   },
   "files": [
     "COPYING-lame",
