@@ -39,6 +39,10 @@ portions of `LAME` object code.
 With the `default` Nix shell:
 
 ```bash
+nix develop --no-pure-eval '#.'
+```
+
+```bash
 # Formatting
 nix fmt .
 oxfmt .
@@ -51,7 +55,7 @@ tsc
 vite
 
 # Publishing (command order matters)
-# Don't forget to update the CHANGELOG
+# Don't forget to update the CHANGELOG, package.json version, and add a git tag
 vite build
 tsc -p tsconfig.publish.json
 
